@@ -33,4 +33,4 @@ async def on_message(message):
 async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
-client.run('OTEwNTAyMTk5NzY1OTE3NzI2.YZTxQA.KtjAJ8kNt360JLE-APbbJeDcloc')
+client.run('TOKEN')
