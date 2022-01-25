@@ -1,2 +1,2 @@
 # niina-aichatbot
-My discord chatbot
+My discord chatbot (rarely updated)
